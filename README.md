@@ -1,5 +1,6 @@
-# Safety for of the original repository.
+# Reason to FORK.
 This is never intended to be maintained. Please use the original one instead. 
+
 This is forked with the idea of a public back-up on the original repository.
 
 # mongobetween
