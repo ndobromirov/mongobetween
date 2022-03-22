@@ -1,3 +1,7 @@
+# Safety for of the original repository.
+This is never intended to be maintained. Please use the original one instead. 
+This is forked with the idea of a public back-up on the original repository.
+
 # mongobetween
 `mongobetween` is a lightweight MongoDB connection pooler written in Golang. It's primary function is to handle a large number of incoming connections, and multiplex them a across a smaller connection pool to one or more MongoDB clusters.
 
